@@ -29,6 +29,6 @@ Reserve Table for the Day: Convenient feature for employees to reserve tables fo
 Receive Notification on Credit Points Modification: Instant notifications to inform employees about changes in their credit points.
 
 
-FILES PATH REFERENCE:
-Java Files Path: emp_1>src>main>java>com>emp
+FILES PATH REFERENCE:<br/>
+Java Files Path: emp_1>src>main>java>com>emp<br/>
 Jsp Files Path:  emp_1>src>main>webapp>WEB-INF>view
