@@ -27,3 +27,8 @@ Employee Login: Secure login for employees to access personal details and functi
 View Personal Details: Access to personal information for each employee.
 Reserve Table for the Day: Convenient feature for employees to reserve tables for daily use.
 Receive Notification on Credit Points Modification: Instant notifications to inform employees about changes in their credit points.
+
+
+FILES PATH REFERENCE:
+Java Files Path: emp_1>src>main>java>com>emp
+Jsp Files Path:  emp_1>src>main>webapp>WEB-INF>view
